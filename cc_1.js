@@ -77,6 +77,7 @@ console.log("comparison of empployeescore1 !== empployeescore2", comparison6);
 // Task 5 Logical Operators
 let hasKeyCard = true 
 let hasPermission = false
+
 let canAccess = hasKeyCard && hasPermission;
 // has keycard and permission
 console.log(canAccess);
